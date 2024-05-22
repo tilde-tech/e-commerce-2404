@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'ecommerce.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'e-commerce-2404',
-        'USER' : 'e-commerce-2404',
-        'PASSWORD' : 'e-commerce-2404',
+        'NAME': 'ecommerce$2404',
+        'USER' : 'ecommerce$2404',
+        'PASSWORD' : 'ecommerce$2404',
         'HOSTNAME' : 'localhost',
         'PORT' : '',
     }
